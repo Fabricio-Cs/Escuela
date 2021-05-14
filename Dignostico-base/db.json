@@ -1,0 +1,23 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Fabricio Lopez",
+      "email": "fabriciolc.ti@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "Bart",
+      "name": "Agua"     
+    },
+{
+      "id": "homero",
+      "name": "fuego"     
+    },
+{
+      "id": "Eminem",
+      "name": "Postin"    
+    }
+  ]
+}

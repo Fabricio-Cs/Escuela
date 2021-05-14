@@ -1,0 +1,6 @@
+-Cree una base de datos con json-server, que es el segundo documento que se ejecuta dentro de la carpta
+
+-Para la extraccion de los datos cree un servicio GET para poder manipular  y usar los datos
+
+- En cuanto al diseño, utilicé conocimientos que aprendí en react
+
